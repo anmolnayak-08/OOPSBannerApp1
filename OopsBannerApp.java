@@ -1,5 +1,6 @@
-public class OopsBannerApp{
-          public static void main(String[] args) {
+public class OopsBannerApp {
+
+    public static void main(String[] args) {
 
        
         String[] banner = {
